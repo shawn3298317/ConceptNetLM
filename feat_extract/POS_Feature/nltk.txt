@@ -28,3 +28,14 @@ dt    WP
 dt    WP$ 
 dt    EX
 dt    MD
+dt    TO
+XX    TO
+XX    DT
+XX    WRB
+XX    POS
+XX    LS
+XX    WP$
+XX    .
+XX    -NONE-
+XX    :
+XX    FW
